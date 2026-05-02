@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Moumi Byapari
+# Gmail : byaparimoumi@gmail.com
 
 ## 💻 Tech Skills
 
