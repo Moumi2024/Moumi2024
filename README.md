@@ -10,6 +10,7 @@ I am eager to learn and consistently building my skills to become a software eng
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![DSA](https://img.shields.io/badge/DSA-blue?style=for-the-badge)
 ![Object-Oriented Programming](https://img.shields.io/badge/Object%20Oriented%20Programming-purple?style=for-the-badge)
 ![System Design](https://img.shields.io/badge/System%20Design-orange?style=for-the-badge)
