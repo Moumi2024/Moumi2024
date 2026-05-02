@@ -1,10 +1,8 @@
-# Hi 👋 I'm Moumi Byapari
-💻 Aspiring Software Engineer
+# 💻 Aspiring Software Engineer
 
 I am eager to learn and continuously working towards becoming a software engineer.
 
-## 📫 Contact
-📧 byaparimoumi@gmail.com  
+## 📫 Contact : 📧 byaparimoumi@gmail.com  
 
 ## 💻 Tech Stack
 
