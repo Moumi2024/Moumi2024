@@ -1,6 +1,7 @@
 # Gmail : byaparimoumi@gmail.com
 
-## 💻 Tech Skills
+
+## 💻 Tech Stack
 
 ### 👨‍💻 Programming Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -11,7 +12,8 @@
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 ### 🧠 Core Concepts
-![DSA](https://img.shields.io/badge/DSA-Algorithm-blue?style=for-the-badge)
+![DSA](https://img.shields.io/badge/DSA-blue?style=for-the-badge)
+![OOP](https://img.shields.io/badge/Object%20Oriented%20Programming-purple?style=for-the-badge)
 ![System Design](https://img.shields.io/badge/System%20Design-orange?style=for-the-badge)
 
 ### 🗄️ Database
