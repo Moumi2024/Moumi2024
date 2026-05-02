@@ -15,3 +15,4 @@ I am eager to learn and consistently building my skills to become a software eng
 ![System Design](https://img.shields.io/badge/System%20Design-orange?style=for-the-badge)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
