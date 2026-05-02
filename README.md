@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Moumi Byapari
 
-## 💻 Tech Stack
+## 💻 Tech Skills
 
 ### 👨‍💻 Programming Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -12,7 +12,7 @@
 
 ### 🧠 Core Concepts
 ![DSA](https://img.shields.io/badge/DSA-Algorithm-blue?style=for-the-badge)
-![System Design](https://img.shields.io/badge/System%20Design-Architecture-orange?style=for-the-badge)
+![System Design](https://img.shields.io/badge/System%20Design-orange?style=for-the-badge)
 
 ### 🗄️ Database
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
