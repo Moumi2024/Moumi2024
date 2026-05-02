@@ -1,6 +1,6 @@
 # 💻 Aspiring Software Engineer
 
-I am eager to learn and continuously working towards becoming a software engineer.
+I am eager to learn and consistently building my skills to become a software engineer.
 
 ## 📫 Contact : 📧 byaparimoumi@gmail.com  
 
