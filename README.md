@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Moumi
+# Hi there 👋 I'm Moumi Byapari
 
 ## 💻 Tech Stack
 
