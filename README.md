@@ -1,5 +1,10 @@
-# Gmail : byaparimoumi@gmail.com
+# Hi 👋 I'm Moumi Byapari
+💻 Aspiring Software Engineer
 
+I am eager to learn and continuously working towards becoming a software engineer.
+
+## 📫 Contact
+📧 byaparimoumi@gmail.com  
 
 ## 💻 Tech Stack
 
@@ -13,7 +18,7 @@
 
 ### 🧠 Core Concepts
 ![DSA](https://img.shields.io/badge/DSA-blue?style=for-the-badge)
-![OOP](https://img.shields.io/badge/Object%20Oriented%20Programming-purple?style=for-the-badge)
+![Object-Oriented Programming](https://img.shields.io/badge/Object%20Oriented%20Programming-purple?style=for-the-badge)
 ![System Design](https://img.shields.io/badge/System%20Design-orange?style=for-the-badge)
 
 ### 🗄️ Database
